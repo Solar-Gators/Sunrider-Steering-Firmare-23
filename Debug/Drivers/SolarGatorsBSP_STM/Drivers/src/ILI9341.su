@@ -1,0 +1,26 @@
+c:\st\stm32cubeide_1.11.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.100.202210260954\tools\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:33:1:SolarGators::Drivers::ILI9341::ILI9341(int16_t, int16_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:45:1:SolarGators::Drivers::ILI9341::~ILI9341()	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:45:1:virtual SolarGators::Drivers::ILI9341::~ILI9341()	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:50:6:void SolarGators::Drivers::ILI9341::Reset()	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:54:6:void SolarGators::Drivers::ILI9341::Resume()	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:58:6:void SolarGators::Drivers::ILI9341::Init()	40	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:101:13:void SolarGators::Drivers::ILI9341::Write(uint8_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:133:6:void SolarGators::Drivers::ILI9341::TransmitCmd(uint8_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:144:6:void SolarGators::Drivers::ILI9341::Transmit8bitData(uint8_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:152:6:void SolarGators::Drivers::ILI9341::Transmit16bitData(uint16_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:162:6:void SolarGators::Drivers::ILI9341::Transmit32bitData(uint32_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:174:6:char SolarGators::Drivers::ILI9341::SetWindow(uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:202:6:char SolarGators::Drivers::ILI9341::DrawPixel(uint16_t, uint16_t, uint16_t)	32	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:217:6:void SolarGators::Drivers::ILI9341::SendColor565(uint16_t, uint32_t)	24	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:232:6:void SolarGators::Drivers::ILI9341::Flood(uint16_t, uint32_t)	24	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:275:6:void SolarGators::Drivers::ILI9341::ClearScreen(uint16_t)	24	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:285:6:void SolarGators::Drivers::ILI9341::DrawFastHLine(uint16_t, uint16_t, uint16_t, uint16_t)	40	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:307:6:void SolarGators::Drivers::ILI9341::DrawFastVLine(uint16_t, uint16_t, uint16_t, uint16_t)	40	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:328:6:void SolarGators::Drivers::ILI9341::SetRotation(uint8_t)	24	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:360:6:void SolarGators::Drivers::ILI9341::SetTextSize(uint8_t)	16	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:365:6:void SolarGators::Drivers::ILI9341::DrawChar(int16_t, int16_t, unsigned char, uint16_t, uint8_t)	48	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:371:6:void SolarGators::Drivers::ILI9341::DrawChar(int16_t, int16_t, unsigned char, uint16_t, uint16_t, uint8_t, uint8_t)	48	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:400:6:void SolarGators::Drivers::ILI9341::DrawText(uint16_t, uint16_t, const char*, uint16_t)	40	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:429:6:void SolarGators::Drivers::ILI9341::DrawRect(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+../Drivers/SolarGatorsBSP_STM/Drivers/src/ILI9341.cpp:437:6:void SolarGators::Drivers::ILI9341::FillRect(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	40	static

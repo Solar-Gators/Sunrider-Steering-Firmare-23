@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Test2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F4_CAN Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BackupCam Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Precharge Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SD_Test Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SteeringWheel2023 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SteeringWheel2023F0 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TestBoard Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TestBoard Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Tutorial Debug,org.eclipse.launchbar.core.descriptorType.default\:AT91SAM7A3,org.eclipse.launchbar.core.descriptorType.default\:cpputest_example_Default,org.eclipse.cdt.debug.core.coreBuildDescriptorType\:CppUTestExample
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Precharge\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SteeringWheel2023\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:SteeringWheel2023F0\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Test2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Test2\ Debug/activeLaunchTarget=null\:---
+org.eclipse.launchbar.core.descriptorType.default\:AT91SAM7A3/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:AT91SAM7A3/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:cpputest_example_Default/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

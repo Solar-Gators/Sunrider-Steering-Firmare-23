@@ -1,0 +1,10 @@
+23:35:42 **** Incremental Build of configuration Debug for project SteeringWheel2023 ****
+make -j8 all 
+arm-none-eabi-size   SteeringWheel2023.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 112396	    616	  26464	 139476	  220d4	SteeringWheel2023.elf
+Finished building: default.size.stdout
+ 
+
+23:35:43 Build Finished. 0 errors, 0 warnings. (took 978ms)
+
